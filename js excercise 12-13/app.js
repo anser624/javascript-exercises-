@@ -19,7 +19,7 @@
  
 // vowel= vowel.toLowerCase();
 
-// if (vowel == "a" || vowel == "e" || vowel == "i" || vowel=="o" || vowel=="u"){
+// if (vowel == "a" oneten vowel == "e" oneten vowel == "i" oneten vowel=="o" oneten vowel=="u"){
 //     console.log("true!! this is vowel alphabet")
 // }
 // else{
